@@ -6,10 +6,14 @@
 
 ## 비정기적 특강  
 
-[OT](https://github.com/DarrenKwonDev/entrepreneur_note/blob/master/note/firstOrientation.md)  
-[스타트업 투자유치 실전 노하우](https://github.com/DarrenKwonDev/entrepreneur_note/blob/master/note/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%20%ED%88%AC%EC%9E%90%EC%9C%A0%EC%B9%98%20%EC%8B%A4%EC%A0%84%20%EB%85%B8%ED%95%98%EC%9A%B0.md)  
+[OT](./note/firstOrientation.md)  
+[스타트업 투자유치 실전 노하우](./note/스타트업%20투자유치%20실전%20노하우.md)  
 
 ## 강의  
+
+[벤처창업론](./lectures/벤처창업론/1.md)  
+[사회적 기업의 창업](./lectures/사회적기업의창업/1.md)  
+
 
 ## 유용한 사이트  
 
