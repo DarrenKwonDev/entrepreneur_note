@@ -22,4 +22,6 @@
 
 ## 유용한 사이트
 
-[Harvard Business Review](https://hbr.org/)
+[Product Hunt](https://www.producthunt.com/)  
+[Harvard Business Review](https://hbr.org/)  
+https://playbook.samaltman.com/
