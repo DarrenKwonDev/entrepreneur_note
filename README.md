@@ -24,4 +24,9 @@
 
 [Product Hunt](https://www.producthunt.com/)  
 [Harvard Business Review](https://hbr.org/)  
-https://playbook.samaltman.com/
+https://playbook.samaltman.com/  
+
+## 데이터  
+
+https://www.igaworks.com/
+
