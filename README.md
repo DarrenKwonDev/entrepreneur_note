@@ -4,7 +4,7 @@
 
 [벤처경영기업가 센터](https://www.snustartup.com/)
 
-## 좋은 글들  
+## 좋은 글들
 
 https://brunch.co.kr/@iammento/20
 brunch.co.kr/@dltngus0730#articles
@@ -28,11 +28,11 @@ https://outstanding.kr/irtip20200115/
 
 ## 유용한 사이트
 
+[xxx는 어떻게 초기 n명의 고객을 모았나? 시리즈](https://brunch.co.kr/@clickb7402/80)  
 [Product Hunt](https://www.producthunt.com/)  
 [Harvard Business Review](https://hbr.org/)  
-https://playbook.samaltman.com/  
+https://playbook.samaltman.com/
 
-## 데이터  
+## 데이터
 
 https://www.igaworks.com/
-
