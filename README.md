@@ -4,6 +4,12 @@
 
 [벤처경영기업가 센터](https://www.snustartup.com/)
 
+## 좋은 글들  
+
+https://brunch.co.kr/@iammento/20
+brunch.co.kr/@dltngus0730#articles
+https://outstanding.kr/irtip20200115/
+
 ## 비정기적 특강
 
 [OT](./note/firstOrientation.md)  
